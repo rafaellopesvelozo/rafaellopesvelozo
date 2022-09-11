@@ -64,5 +64,5 @@
 </a>
 
 <p align="center">
-<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=rafaellopesvelozo&theme=moltack"/>
+<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=rafaellopesvelozo&show_icons=true&theme=moltack"/>
 </p>
