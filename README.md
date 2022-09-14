@@ -31,6 +31,9 @@
 
 ## **🚀 My recent works:**
 
+<a href="https://github.com/rafaellopesvelozo/shortly">
+    <img height=100 src="https://user-images.githubusercontent.com/101975205/190031426-75a958d2-6fb6-4029-9b76-c2aaadb02a66.jpg" />
+</a>
 <a href="https://github.com/rafaellopesvelozo/e-comerce">
     <img height=100 src="https://user-images.githubusercontent.com/101975205/189507425-e0e78796-64aa-4670-a59a-00c0f8f44cbb.jpg"/>
 </a>
@@ -38,6 +41,9 @@
     <img height=100 src="https://user-images.githubusercontent.com/101975205/189507516-0bbf932e-96a2-4f2d-9547-ca89620e3c01.jpg"/>
 </a>
 <br>
+<a href="https://github.com/rafaellopesvelozo/validationForm">
+    <img height=100 src="https://user-images.githubusercontent.com/101975205/190032153-291c34e9-7ddc-4dd5-b4f5-e5135ef6ce0f.jpg" />
+</a>
 <a href="https://github.com/rafaellopesvelozo/pesquisa-cep-com-api">
     <img height=100 src="https://user-images.githubusercontent.com/101975205/189507545-06441cff-fd50-4178-92e7-067651c4e4df.jpg"/>
 </a>
