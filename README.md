@@ -69,6 +69,13 @@
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<p align="center">
-<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=rafaellopesvelozo&show_icons=true&theme=moltack"/>
+<br>
+<br>
+
+<p align='center'>
+    <img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=rafaellopesvelozo&show_icons=true&theme=moltack"/>
+    <br>
+    <br>
+    <img height='195' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellopesvelozo&layout=compact&theme=moltack"/>
 </p>
+
