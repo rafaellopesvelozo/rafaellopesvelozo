@@ -2,9 +2,9 @@
 
 ### 
 
-<p align="center">
+<h1 align="center">
   HEY I,M RAFA!
-</p>
+</h1>
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/rafael-lopes-5792a7182/">
