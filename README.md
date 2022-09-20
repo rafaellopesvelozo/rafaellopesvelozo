@@ -8,8 +8,7 @@
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/rafael-lopes-5792a7182/">
-    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
 </p>
 <p align="center">
 👋 Hello! I'm Rafael Lopes, a brazilian programmer.
