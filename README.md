@@ -30,31 +30,34 @@
 
 ## **🚀 My recent works:**
 
+<a href="https://github.com/rafaellopesvelozo/playlist">
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/193431475-3f36510b-8243-4f97-b283-e83c6fc8da32.png" />
+</a>
 <a href="https://github.com/rafaellopesvelozo/shortly">
-    <img height=100 src="https://user-images.githubusercontent.com/101975205/190031426-75a958d2-6fb6-4029-9b76-c2aaadb02a66.jpg" />
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/190031426-75a958d2-6fb6-4029-9b76-c2aaadb02a66.jpg" />
 </a>
 <a href="https://github.com/rafaellopesvelozo/e-comerce">
-    <img height=100 src="https://user-images.githubusercontent.com/101975205/189507425-e0e78796-64aa-4670-a59a-00c0f8f44cbb.jpg"/>
-</a>
-<a href="https://github.com/rafaellopesvelozo/interactive-card-details-form">
-    <img height=100 src="https://user-images.githubusercontent.com/101975205/189507516-0bbf932e-96a2-4f2d-9547-ca89620e3c01.jpg"/>
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507425-e0e78796-64aa-4670-a59a-00c0f8f44cbb.jpg"/>
 </a>
 <br>
+<a href="https://github.com/rafaellopesvelozo/interactive-card-details-form">
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507516-0bbf932e-96a2-4f2d-9547-ca89620e3c01.jpg"/>
+</a>
 <a href="https://github.com/rafaellopesvelozo/validationForm">
-    <img height=100 src="https://user-images.githubusercontent.com/101975205/190032153-291c34e9-7ddc-4dd5-b4f5-e5135ef6ce0f.jpg" />
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/190032153-291c34e9-7ddc-4dd5-b4f5-e5135ef6ce0f.jpg" />
 </a>
 <a href="https://github.com/rafaellopesvelozo/pesquisa-cep-com-api">
-    <img height=100 src="https://user-images.githubusercontent.com/101975205/189507545-06441cff-fd50-4178-92e7-067651c4e4df.jpg"/>
-</a>
-<a href="https://github.com/rafaellopesvelozo/P-gina-netflix---com-html-css">
-    <img height=100 src="https://user-images.githubusercontent.com/101975205/189507617-9952e962-9cf9-40ab-ac82-dc003ea7bae5.jpg"/>
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507545-06441cff-fd50-4178-92e7-067651c4e4df.jpg"/>
 </a>
 <br>
+<a href="https://github.com/rafaellopesvelozo/P-gina-netflix---com-html-css">
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507617-9952e962-9cf9-40ab-ac82-dc003ea7bae5.jpg"/>
+</a>
 <a href="https://github.com/rafaellopesvelozo/Rel-gio-digital">
-    <img height=100 src="https://user-images.githubusercontent.com/101975205/189507861-1fb8d84c-120f-4bab-847b-b7c7fde2f0e4.jpg"/>
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507861-1fb8d84c-120f-4bab-847b-b7c7fde2f0e4.jpg"/>
   </a>
 <a href="https://github.com/rafaellopesvelozo/validacao-de-formulario">
-    <img height=100 src="https://user-images.githubusercontent.com/101975205/189508035-e9cecbf4-c030-4ed5-9575-b09cf52650fa.jpg"/>
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189508035-e9cecbf4-c030-4ed5-9575-b09cf52650fa.jpg"/>
   </a>
 
   ## **🌠You can find me on:**
