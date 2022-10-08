@@ -27,19 +27,26 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## **🚀 My recent works:**
 
+<a href="https://github.com/rafaellopesvelozo/To-do-list">
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/194679360-b6861ec5-ea4b-48d9-8ef6-f4734ee5d123.jpg"/>
+</a>
 <a href="https://github.com/rafaellopesvelozo/playlist">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/193431475-3f36510b-8243-4f97-b283-e83c6fc8da32.png" />
 </a>
 <a href="https://github.com/rafaellopesvelozo/shortly">
-    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/190031426-75a958d2-6fb6-4029-9b76-c2aaadb02a66.jpg" />
+    <img  height=100 width=200 src="https://user-images.githubusercontent.com/101975205/190031426-75a958d2-6fb6-4029-9b76-c2aaadb02a66.jpg" />
 </a>
 <a href="https://github.com/rafaellopesvelozo/e-comerce">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507425-e0e78796-64aa-4670-a59a-00c0f8f44cbb.jpg"/>
 </a>
+
 <br>
+<hr>
+
 <a href="https://github.com/rafaellopesvelozo/interactive-card-details-form">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507516-0bbf932e-96a2-4f2d-9547-ca89620e3c01.jpg"/>
 </a>
@@ -49,10 +56,13 @@
 <a href="https://github.com/rafaellopesvelozo/pesquisa-cep-com-api">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507545-06441cff-fd50-4178-92e7-067651c4e4df.jpg"/>
 </a>
-<br>
 <a href="https://github.com/rafaellopesvelozo/P-gina-netflix---com-html-css">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507617-9952e962-9cf9-40ab-ac82-dc003ea7bae5.jpg"/>
 </a>
+
+<br>
+<hr>
+
 <a href="https://github.com/rafaellopesvelozo/Rel-gio-digital">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507861-1fb8d84c-120f-4bab-847b-b7c7fde2f0e4.jpg"/>
   </a>
