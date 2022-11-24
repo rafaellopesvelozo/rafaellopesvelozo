@@ -31,7 +31,7 @@
 
 ## **🚀 My recent works:**
 
-<a href="https://github.com/rafaellopesvelozo/To-do-list">
+<a href="https://github.com/rafaellopesvelozo/king-burger">
      <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/203318306-6c7a4871-a964-4b16-bf2c-1af981708744.jpeg" width="900px" />
 </a>
 <a href="https://github.com/rafaellopesvelozo/To-do-list">
@@ -43,13 +43,12 @@
 <a href="https://github.com/rafaellopesvelozo/shortly">
     <img  height=100 width=200 src="https://user-images.githubusercontent.com/101975205/190031426-75a958d2-6fb6-4029-9b76-c2aaadb02a66.jpg" />
 </a>
-<a href="https://github.com/rafaellopesvelozo/e-comerce">
-    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507425-e0e78796-64aa-4670-a59a-00c0f8f44cbb.jpg"/>
-</a>
 
 <br>
 <hr>
-
+<a href="https://github.com/rafaellopesvelozo/e-comerce">
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507425-e0e78796-64aa-4670-a59a-00c0f8f44cbb.jpg"/>
+</a>
 <a href="https://github.com/rafaellopesvelozo/interactive-card-details-form">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507516-0bbf932e-96a2-4f2d-9547-ca89620e3c01.jpg"/>
 </a>
@@ -58,9 +57,6 @@
 </a>
 <a href="https://github.com/rafaellopesvelozo/pesquisa-cep-com-api">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507545-06441cff-fd50-4178-92e7-067651c4e4df.jpg"/>
-</a>
-<a href="https://github.com/rafaellopesvelozo/P-gina-netflix---com-html-css">
-    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507617-9952e962-9cf9-40ab-ac82-dc003ea7bae5.jpg"/>
 </a>
 
 <br>
@@ -72,6 +68,9 @@
 <a href="https://github.com/rafaellopesvelozo/validacao-de-formulario">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189508035-e9cecbf4-c030-4ed5-9575-b09cf52650fa.jpg"/>
   </a>
+  <a href="https://github.com/rafaellopesvelozo/P-gina-netflix---com-html-css">
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507617-9952e962-9cf9-40ab-ac82-dc003ea7bae5.jpg"/>
+</a>
 
   ## **🌠You can find me on:**
 *Click on the image to be redirected*
