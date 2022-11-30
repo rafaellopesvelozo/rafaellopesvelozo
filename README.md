@@ -31,6 +31,11 @@
 
 ## **🚀 My recent works:**
 
+
+
+<a href="https://github.com/rafaellopesvelozo/blizzard">
+     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/204922176-f1ac05ac-22de-43e5-b437-e0863bfe2f32.png" width="900px" />
+</a>
 <a href="https://github.com/rafaellopesvelozo/king-burger">
      <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/203318306-6c7a4871-a964-4b16-bf2c-1af981708744.jpeg" width="900px" />
 </a>
@@ -40,12 +45,13 @@
 <a href="https://github.com/rafaellopesvelozo/playlist">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/193431475-3f36510b-8243-4f97-b283-e83c6fc8da32.png" />
 </a>
-<a href="https://github.com/rafaellopesvelozo/shortly">
-    <img  height=100 width=200 src="https://user-images.githubusercontent.com/101975205/190031426-75a958d2-6fb6-4029-9b76-c2aaadb02a66.jpg" />
-</a>
 
 <br>
 <hr>
+
+<a href="https://github.com/rafaellopesvelozo/shortly">
+    <img  height=100 width=200 src="https://user-images.githubusercontent.com/101975205/190031426-75a958d2-6fb6-4029-9b76-c2aaadb02a66.jpg" />
+</a>
 <a href="https://github.com/rafaellopesvelozo/e-comerce">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507425-e0e78796-64aa-4670-a59a-00c0f8f44cbb.jpg"/>
 </a>
@@ -55,13 +61,13 @@
 <a href="https://github.com/rafaellopesvelozo/validationForm">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/190032153-291c34e9-7ddc-4dd5-b4f5-e5135ef6ce0f.jpg" />
 </a>
-<a href="https://github.com/rafaellopesvelozo/pesquisa-cep-com-api">
-    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507545-06441cff-fd50-4178-92e7-067651c4e4df.jpg"/>
-</a>
 
 <br>
 <hr>
 
+<a href="https://github.com/rafaellopesvelozo/pesquisa-cep-com-api">
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507545-06441cff-fd50-4178-92e7-067651c4e4df.jpg"/>
+</a>
 <a href="https://github.com/rafaellopesvelozo/Rel-gio-digital">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507861-1fb8d84c-120f-4bab-847b-b7c7fde2f0e4.jpg"/>
   </a>
