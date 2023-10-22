@@ -33,7 +33,7 @@
 
 
 <a href="https://github.com/rafaellopesvelozo/Paqueta-Calcados">
-     <img height=100 width=200 src="https://github.com/rafaellopesvelozo/Paqueta-Calcados/assets/101975205/2a17c04f-929d-499d-9650-3ac555e19ff4.png" width="900px" />
+     <img height=100 width=200 src="https://github.com/rafaellopesvelozo/rafaellopesvelozo/assets/101975205/07de3aa4-6de3-4f80-8d1b-4ad8502913b1.png" width="900px" />
 </a>
 <a href="https://github.com/rafaellopesvelozo/blizzard">
      <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/204922176-f1ac05ac-22de-43e5-b437-e0863bfe2f32.png" width="900px" />
