@@ -44,13 +44,12 @@
 <a href="https://github.com/rafaellopesvelozo/To-do-list">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/194679360-b6861ec5-ea4b-48d9-8ef6-f4734ee5d123.jpg"/>
 </a>
-<a href="https://github.com/rafaellopesvelozo/playlist">
-    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/193431475-3f36510b-8243-4f97-b283-e83c6fc8da32.png" />
-</a>
 
 <br>
 <hr>
-
+<a href="https://github.com/rafaellopesvelozo/playlist">
+    <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/193431475-3f36510b-8243-4f97-b283-e83c6fc8da32.png" />
+</a>
 <a href="https://github.com/rafaellopesvelozo/shortly">
     <img  height=100 width=200 src="https://user-images.githubusercontent.com/101975205/190031426-75a958d2-6fb6-4029-9b76-c2aaadb02a66.jpg" />
 </a>
@@ -60,6 +59,8 @@
 <a href="https://github.com/rafaellopesvelozo/interactive-card-details-form">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/189507516-0bbf932e-96a2-4f2d-9547-ca89620e3c01.jpg"/>
 </a>
+<br>
+<hr>
 <a href="https://github.com/rafaellopesvelozo/validationForm">
     <img height=100 width=200 src="https://user-images.githubusercontent.com/101975205/190032153-291c34e9-7ddc-4dd5-b4f5-e5135ef6ce0f.jpg" />
 </a>
